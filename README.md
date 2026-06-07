@@ -19,9 +19,7 @@
   <a href="mailto:ivoalsilva.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Instagram (descomente quando tiver o link: tire o "<!--" do começo e o "-->" do fim) -->
-  <!--
-  <a href="https://www.instagram.com/SEU-INSTAGRAM/">
+  <a href="https://www.instagram.com/ivoa.lm/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
