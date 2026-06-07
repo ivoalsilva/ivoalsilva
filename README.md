@@ -48,13 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivoalsilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ivoalsilva&background=0D1117&border=1F6FEB&stroke=1F6FEB&ring=29B6FF&fire=29B6FF&currStreakLabel=29B6FF&sideLabels=58A6FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivoalsilva&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivoalsilva&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ivoalsilva&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
