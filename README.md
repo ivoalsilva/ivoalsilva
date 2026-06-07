@@ -5,7 +5,7 @@
 <h1 align="center">Ivo Silva</h1>
 
 <p align="center">
-  <strong>Software Engineer • SaaS Builder • Automation Engineer</strong>
+  <strong>Software Engineer</strong>
 </p>
 
 <p align="center">
