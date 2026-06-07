@@ -46,10 +46,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
