@@ -24,7 +24,6 @@
   <a href="https://www.instagram.com/SEU-INSTAGRAM/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  -->
 </p>
 
 ---
