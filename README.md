@@ -13,15 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ivo-almeiida/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:ivoalsilva.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <!-- Instagram (descomente quando tiver o link: tire o "<!--" do começo e o "-->" do fim) -->
+  <!--
   <a href="https://www.instagram.com/SEU-INSTAGRAM/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  -->
 </p>
 
 ---
