@@ -31,6 +31,8 @@
 - HTML & CSS
 - JavaScript
 - Lógica de Programação
+- React
+- Node.js
 - Versionamento com Git
 
 ---
