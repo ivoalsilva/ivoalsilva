@@ -5,11 +5,11 @@
 <h1 align="center">Ivo Silva</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong>
+  <strong>Desenvolvedor Front-end · React & Next.js</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Estudante+de+Desenvolvimento;HTML+%7C+CSS+%7C+JavaScript;Em+busca+de+novos+desafios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+Next.js+%7C+Tailwind;Testes+E2E+com+Cypress;CI%2FCD+com+GitHub+Actions;Construindo+projetos+reais" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,23 +26,42 @@
 
 ---
 
-## 🚀 Aprendendo Atualmente
+## 👋 Sobre mim
 
-- HTML & CSS
-- JavaScript
-- Lógica de Programação
-- React
-- Node.js
-- Versionamento com Git
+Desenvolvedor front-end em início de carreira, construindo aplicações reais com **React** e **Next.js** — e com foco em **qualidade**: código limpo, testes automatizados e integração contínua. Aprendo fazendo, e cada projeto vira uma oportunidade de aplicar boas práticas de mercado.
+
+---
+
+## 🛒 Projeto em Destaque
+
+### [Clone Lojas Americanas](https://github.com/ivoalsilva/clone-lojas-americanas)
+
+E-commerce funcional com catálogo, categorias dinâmicas, página de produto e carrinho — construído do zero com foco em boas práticas.
+
+**Stack:** `Next.js` · `React` · `Tailwind CSS`
+**Qualidade:** `Cypress (E2E)` · `GitHub Actions (CI/CD)` · `ESLint`
+
+- 🗂️ Rotas dinâmicas — `/categoria/[slug]` e `/produto/[id]`
+- 🛒 Carrinho com estado global via **Context API**
+- 🖼️ Otimização de imagens com **next/image**
+- ✅ **Testes E2E** cobrindo o fluxo crítico de navegação
+- ⚙️ **Pipeline de CI** rodando lint + build + testes a cada push
 
 ---
 
 ## ⚡ Tech Stack
+
 <p align="left">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,cypress,git,github,vscode" alt="Tech Stack" />
 </p>
+
+---
+
+## 🌱 Aprofundando
+
+- Testes automatizados e boas práticas de qualidade
+- Node.js e desenvolvimento back-end
+- Arquitetura de aplicações React/Next.js
 
 ---
 
