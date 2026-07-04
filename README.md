@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Ivo Silva</h1>
+<h1 align="center">Ivo Almeida</h1>
 
 <p align="center">
   <strong>Desenvolvedor Front-end · React & Next.js</strong>
