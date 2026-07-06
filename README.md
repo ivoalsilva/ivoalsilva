@@ -62,15 +62,3 @@ E-commerce funcional com catálogo, categorias dinâmicas, página de produto e 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ivoalsilva&show_icons=true&theme=github_dark"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoalsilva&layout=compact&theme=github_dark"
-  />
-</p>
