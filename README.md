@@ -96,9 +96,3 @@ A complete e-commerce application featuring product catalog, dynamic categories,
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ivoalsilva&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoalsilva&layout=compact&theme=github_dark" />
-</p>
