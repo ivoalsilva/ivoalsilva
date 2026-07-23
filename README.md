@@ -5,7 +5,8 @@
 <h1 align="center">Ivo Silva</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end · React & Next.js</strong>
+  <strong>Full Stack Developer in Training
+React • Next.js • Node.js • TypeScript</strong>
 </p>
 
 <p align="center">
