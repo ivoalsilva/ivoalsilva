@@ -10,7 +10,7 @@ React • Next.js • Node.js • TypeScript</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+Next.js+%7C+Tailwind;Testes+E2E+com+Cypress;CI%2FCD+com+GitHub+Actions;Construindo+projetos+reais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL;E2E+Testing+with+Cypress;CI%2FCD+with+GitHub+Actions;Building+Real+World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
