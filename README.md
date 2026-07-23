@@ -5,13 +5,12 @@
 <h1 align="center">Ivo Silva</h1>
 
 <p align="center">
-  <strong>Full Stack Developer in Training</strong><br>
-  Software Engineering Student<br>
-  React • Next.js • Node.js • TypeScript
+  <strong>Desenvolvedor Full Stack em Formação</strong><br>
+  Estudante de Engenharia de Software
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;Software+Engineering+Student;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL;E2E+Testing+with+Cypress;CI%2FCD+with+GitHub+Actions;Building+Real+World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express;Testes+E2E+com+Cypress;CI%2FCD+com+GitHub+Actions;Construindo+Projetos+Reais" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,52 +24,41 @@
 
 ---
 
-## 👋 About Me
+## 👋 Sobre mim
 
-I'm a Full Stack Developer in training and a Software Engineering student passionate about building modern web applications.
+Desenvolvedor Full Stack em formação e estudante de Engenharia de Software.
 
-Currently focused on developing real-world projects with React, Next.js, Node.js and TypeScript while applying industry practices such as automated testing, clean code and CI/CD.
+Construo aplicações web utilizando React, Next.js, Node.js e TypeScript, aplicando boas práticas como testes automatizados, integração contínua e código limpo.
 
-My goal is to grow as a software engineer and contribute to products that create real value for users.
-
----
-
-## 🚀 Featured Project
-
-### [Clone Lojas Americanas](https://github.com/ivoalsilva/clone-lojas-americanas)
-
-A complete e-commerce application featuring product catalog, dynamic categories, product pages and shopping cart functionality.
-
-### Tech Stack
-
-`Next.js` • `React` • `Tailwind CSS`
-
-### Quality & Tooling
-
-`Cypress (E2E)` • `GitHub Actions (CI/CD)` • `ESLint`
-
-#### Features
-
-- 🗂️ Dynamic Routes (`/categoria/[slug]` and `/produto/[id]`)
-- 🛒 Global Cart State with Context API
-- 🖼️ Image Optimization using Next/Image
-- ✅ End-to-End Testing with Cypress
-- ⚙️ Automated CI Pipeline (lint + build + tests)
+🎯 Atualmente focado em evoluir como desenvolvedor e conquistar minha primeira oportunidade na área.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-| Project | Description |
-|----------|-------------|
-| 🛒 Clone Lojas Americanas | E-commerce built with Next.js and React |
-| 💰 Digital Money | Personal finance management application |
-| 📊 IMC Calculator | BMI calculator with charts and statistics |
-| 🌐 Landing Page | Responsive landing page project |
+### 🛒 Clone Lojas Americanas
+E-commerce desenvolvido com Next.js, React e Tailwind CSS.
+
+- Rotas dinâmicas
+- Carrinho com Context API
+- Testes E2E com Cypress
+- Pipeline CI/CD com GitHub Actions
+
+🔗 https://github.com/ivoalsilva/clone-lojas-americanas
+
+### 💰 Digital Money
+Sistema financeiro para gerenciamento de receitas e despesas.
+
+🔗 https://github.com/ivoalsilva/front-finance-54
+
+### ⚙️ Coiote Backend
+API REST construída com Node.js e TypeScript.
+
+🔗 https://github.com/ivoalsilva/corcoiote---backend
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,cypress,git,github,vscode" />
@@ -78,21 +66,26 @@ A complete e-commerce application featuring product catalog, dynamic categories,
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Atualmente estudando
 
-- Backend Development with Node.js
-- TypeScript Best Practices
-- Software Architecture
-- Automated Testing
-- CI/CD Pipelines
-- SQL & Database Modeling
-
----
-
-## 🌎 Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — A1 (Currently Studying)
+- Node.js e desenvolvimento Back-end
+- TypeScript
+- Testes automatizados
+- Arquitetura React e Next.js
+- Banco de dados SQL
+- CI/CD e qualidade de software
 
 ---
 
+## 🎓 Formação
+
+📚 Engenharia de Software (em andamento)
+
+🚀 Formação Full Stack (em andamento)
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Em desenvolvimento (A1)
