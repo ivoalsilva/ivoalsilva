@@ -88,4 +88,4 @@ API REST construída com Node.js e TypeScript.
 ## 🌎 Idiomas
 
 - 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Em desenvolvimento (A1)
+- 🇺🇸 Inglês — Em desenvolvimento (A2)
