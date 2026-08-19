@@ -26,11 +26,11 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Full Stack em formação e estudante de Engenharia de Software.
+Desenvolvedor Full Stack em formação e estudante de Análise e Desenvolvimento de Sistemas (ADS) .
 
 Construo aplicações web utilizando React, Next.js, Node.js e TypeScript, aplicando boas práticas como testes automatizados, integração contínua e código limpo.
 
-🎯 Atualmente focado em evoluir como desenvolvedor e conquistar minha primeira oportunidade na área.
+🎯 Atualmente focado em evoluir como desenvolvedor e conquistar oportunidade na área.
 
 ---
 
@@ -79,7 +79,7 @@ API REST construída com Node.js e TypeScript.
 
 ## 🎓 Formação
 
-📚 Engenharia de Software (em andamento)
+📚 Análise e Desenvolvimento de Sistemas (ADS)  (em andamento)
 
 🚀 Formação Full Stack (em andamento)
 
