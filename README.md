@@ -1,3 +1,5 @@
+# README.md
+
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%" />
 </p>
@@ -5,12 +7,11 @@
 <h1 align="center">Ivo Silva</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack em Formação</strong><br>
-  Estudante de Engenharia de Software
+  <strong>Full Stack Developer | React • Next.js • Node.js</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express;Testes+E2E+com+Cypress;CI%2FCD+com+GitHub+Actions;Construindo+Projetos+Reais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+PostgreSQL;Server+Actions+%7C+Server+Components;Building+Real+World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,66 +27,107 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Full Stack em formação e estudante de Análise e Desenvolvimento de Sistemas (ADS) .
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor Full Stack.
 
-Construo aplicações web utilizando React, Next.js, Node.js e TypeScript, aplicando boas práticas como testes automatizados, integração contínua e código limpo.
+Desenvolvo aplicações web utilizando React, Next.js, TypeScript, Node.js e PostgreSQL, construindo projetos completos do front-end ao banco de dados.
 
-🎯 Atualmente focado em evoluir como desenvolvedor e conquistar oportunidade na área.
+Atualmente estudo desenvolvimento back-end, arquitetura de aplicações, bancos de dados relacionais e boas práticas de engenharia de software.
+
+🎯 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e continuar evoluindo na construção de aplicações modernas e escaláveis.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+### ✅ To-Do List Full Stack
+
+Aplicação web full stack para gerenciamento de tarefas com CRUD completo e persistência em banco de dados PostgreSQL.
+
+#### Tecnologias
+
+* Next.js (App Router)
+* React
+* TypeScript
+* Tailwind CSS
+* Server Components
+* Server Actions
+* Node.js
+* PostgreSQL
+* SQL
+* Vercel
+
+#### Funcionalidades
+
+* Criar tarefas
+* Listar tarefas
+* Editar tarefas
+* Excluir tarefas
+* Persistência em banco de dados
+* Renderização híbrida com Server Components
+
+🔗 Repositório: https://github.com/ivoalsilva/seu-repositorio
+
+---
+
 ### 🛒 Clone Lojas Americanas
+
 E-commerce desenvolvido com Next.js, React e Tailwind CSS.
 
-- Rotas dinâmicas
-- Carrinho com Context API
-- Testes E2E com Cypress
-- Pipeline CI/CD com GitHub Actions
+#### Destaques
 
-🔗 https://github.com/ivoalsilva/clone-lojas-americanas
+* Rotas dinâmicas
+* Carrinho com Context API
+* Testes E2E com Cypress
+* Pipeline CI/CD com GitHub Actions
 
-### 💰 Digital Money
-Sistema financeiro para gerenciamento de receitas e despesas.
+🔗 Repositório: https://github.com/ivoalsilva/clone-lojas-americanas
 
-🔗 https://github.com/ivoalsilva/front-finance-54
+---
 
-### ⚙️ Coiote Backend
-API REST construída com Node.js e TypeScript.
+### ⚙️ Corcoiote Backend
 
-🔗 https://github.com/ivoalsilva/corcoiote---backend
+API REST desenvolvida com Node.js e TypeScript.
+
+#### Destaques
+
+* Arquitetura em camadas
+* Integração com banco de dados
+* CRUD de recursos
+* TypeScript
+
+🔗 Repositório: https://github.com/ivoalsilva/corcoiote---backend
 
 ---
 
 ## ⚡ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,cypress,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mysql,git,github,vercel,vscode" />
 </p>
 
 ---
 
 ## 🌱 Atualmente estudando
 
-- Node.js e desenvolvimento Back-end
-- TypeScript
-- Testes automatizados
-- Arquitetura React e Next.js
-- Banco de dados SQL
-- CI/CD e qualidade de software
+* Node.js e APIs REST
+* TypeScript
+* PostgreSQL
+* Modelagem de Banco de Dados
+* Server Actions e Server Components
+* Arquitetura Next.js
+* Deploy e CI/CD
 
 ---
 
 ## 🎓 Formação
 
-📚 Análise e Desenvolvimento de Sistemas (ADS)  (em andamento)
+📚 Análise e Desenvolvimento de Sistemas (ADS) — Em andamento
 
-🚀 Formação Full Stack (em andamento)
+🚀 Formação Full Stack — Em andamento
 
 ---
 
 ## 🌎 Idiomas
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Em desenvolvimento (A2)
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — A2 (em evolução para B1)
