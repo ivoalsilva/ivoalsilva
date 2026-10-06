@@ -84,7 +84,7 @@ Aplicação web full stack para gerenciamento de tarefas, desenvolvida com Next.
 * Tailwind CSS
 * PostgreSQL
 * Vercel
-* 
+  
 ---
 
 ### 🛒 Clone Lojas Americanas — Projeto de Portfólio
