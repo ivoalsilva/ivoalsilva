@@ -150,4 +150,4 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end, co
 
 📚 Análise e Desenvolvimento de Sistemas (ADS) — Em andamento
 
-🚀 Formação Full Stack — Em andamento
+🚀 Formação Full Stack — Concluído
