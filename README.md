@@ -1,15 +1,9 @@
-<p align="center">
+ <p align="center">
   <img src="./banner.png" alt="Ivo Silva - Full Stack Developer" width="100%" />
 </p>
 
-<h1 align="center">Ivo Silva</h1>
-
 <p align="center">
-  <strong>Full Stack Developer | React • Next.js • Node.js</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=29B6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+PostgreSQL;Building+Web+Applications;Learning+and+Building+Back-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Building+Web+Applications;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,13 +19,11 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor Full Stack.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco no desenvolvimento de aplicações web.
 
-Desenvolvo aplicações web utilizando React, Next.js, TypeScript, Node.js e PostgreSQL, trabalhando desde a construção das interfaces até o desenvolvimento de APIs e integração com bancos de dados.
+Tenho experiência prática em projetos com React, Next.js e TypeScript, e estou expandindo minhas habilidades no desenvolvimento de APIs com Node.js, Express e PostgreSQL.
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento back-end, APIs REST, PostgreSQL, arquitetura de aplicações e boas práticas de engenharia de software.
-
-🎯 Busco minha primeira oportunidade profissional como desenvolvedor, onde possa aplicar meus conhecimentos, contribuir com a equipe e continuar evoluindo na construção de aplicações reais.
+Busco minha primeira oportunidade profissional na área de desenvolvimento de software, onde possa contribuir com projetos reais, aprender com outros desenvolvedores e evoluir tecnicamente.
 
 ---
 
